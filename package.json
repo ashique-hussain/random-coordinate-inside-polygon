@@ -1,0 +1,16 @@
+{
+  "name": "random-coordinate-inside-polygon",
+  "version": "1.0.6",
+  "description": "Get random co-ordinates inside polygon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Polygon",
+    "Random",
+    "Coordinate"
+  ],
+  "author": "Ashique Hussain Ansari",
+  "license": "ISC"
+}
